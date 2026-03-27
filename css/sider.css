@@ -1,0 +1,20 @@
+.page-container {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.page-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.back-btn {
+    display: inline-block;
+    margin-top: 30px;
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 12px;
+    background: #0a5043;
+    color: white;
+}
